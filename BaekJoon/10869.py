@@ -1,0 +1,8 @@
+A2,B2 = input().split()
+A = int(A2)
+B = int(B2)
+print(A+B)
+print(A-B)
+print(A*B)
+print(A/B)
+print(A%B)
